@@ -68,3 +68,16 @@ ls_el:
 
 ls_ee:
   name: Lakeside School, WA - A3 / B3 Lunch
+
+lohs_ff:
+  name: Live Oak High School, LA - First/First Lunch
+
+lohs_fs:
+  name: Live Oak High School, LA - First/Second Lunch
+
+lohs_ss:
+  name: Live Oak High School, LA - Second/Second Lunch
+
+lohs_sf:
+  name: Live Oak High School, LA - Second/First Lunch
+  
