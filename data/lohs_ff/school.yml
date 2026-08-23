@@ -1,0 +1,119 @@
+periods:
+  - Period 1
+  - Period 2
+  - Period 3
+  - Period 4
+  - Period 5
+  - Period 6
+  - Period 7
+  - Period 8
+
+# these are periods with names that users should NOT
+# be able to customize
+# by deafult: Free, Brunch, Break, Lunch, and Passing are non-periods
+non-periods:
+  - WIN
+  - Passing
+  - Lunch
+  - Home
+
+weekend:
+  name: Weekend
+  schedule: ~
+
+schedule-fa:
+  name: Schedule All Upstairs
+  schedule:
+    - 7:09 Period 1
+    - 8:02 Passing
+    - 8:06 Period 2
+    - 8:59 Passing
+    - 9:53 Period 3
+    - 9:56 Passing
+    - 10:00 Period 4
+    - 10:53 Passing
+    - 10:57 Period 5
+    - 11:54 Lunch
+    - 12:21 Passing
+    - 12:25 Period 6
+    - 13:18 Passing
+    - 13:22 Period 7
+    - 14:15 Home
+
+schedule-sa:
+  name: Schedule All Downstairs
+  schedule:
+    - 7:09 Period 1
+    - 8:02 Passing
+    - 8:06 Period 2
+    - 8:59 Passing
+    - 9:53 Period 3
+    - 9:56 Passing
+    - 10:00 Period 4
+    - 10:53 Passing
+    - 10:57 Lunch
+    - 11:24 Passing
+    - 11:28 Period 5
+    - 12:21 Passing
+    - 12:25 Period 6
+    - 13:18 Passing
+    - 13:22 Period 7
+    - 14:15 Home
+
+schedule-fo:
+  name: Schedule Odd Upstairs
+  schedule:
+    - 7:09 Period 1
+    - 8:44 Passing
+    - 8:48 Period 3
+    - 10:23 Passing
+    - 10:37 Period 5
+    - 12:06 Lunch
+    - 12:36 Passing
+    - 12:40 Period 7
+    - 14:15 Home
+
+schedule-so:
+  name: Schedule Odd Downstairs
+  schedule:
+    - 7:09 Period 1
+    - 8:44 Passing
+    - 8:48 Period 3
+    - 10:23 Passing
+    - 10:37 Lunch
+    - 11:01 Period 5
+    - 12:36 Passing
+    - 12:40 Period 7
+    - 14:15 Home
+
+schedule-fe:
+  name: Schedule Even Upstairs
+  schedule:
+    - 7:09 Period 2
+    - 8:44 Passing
+    - 8:48 WIN
+    - 9:48 Passing
+    - 9:53 Period 4
+    - 11:31 Lunch
+    - 12:01 Passing
+    - 12:05 Period 6
+    - 1:40 Passing
+    - 1:44 Period 8
+    - 2:15 Home
+
+schedule-se:
+  name: Schedule Even Downstairs
+  schedule:
+  schedule:
+    - 7:09 Period 2
+    - 8:44 Passing
+    - 8:48 WIN
+    - 9:48 Passing
+    - 9:53 Lunch
+    - 10:26 Period 4
+    - 12:01 Passing
+    - 12:05 Period 6
+    - 1:40 Passing
+    - 1:44 Period 8
+    - 2:15 Home
+
