@@ -1,0 +1,36 @@
+defaults:
+  start: 8/10/2026
+  pattern:
+    - weekend
+    - schedule-so
+    - schedule-se
+    - schedule-so
+    - schedule-se
+    - schedule-sa
+    - weekend
+
+calendar:
+  - 9/2/2026 schedule-sa
+  - 9/3/2026 schedule-so
+  - 9/4/2026 schedule-se
+  - 9/7/2026 weekend
+  - 9/8/2026 schedule-so
+  - 9/9/2026 schedule-se
+  - 9/10/2026 schedule-so
+  - 9/11/2026 schedule-se
+  - 9/17/2026 weekend
+  - 9/18/2026 schedule-se
+  - 9/23/2026 schedule-sa
+  - 9/24/2026 schedule-so
+  - 9/25/2026 schedule-se
+  - 10/7/2026 schedule-sa
+  - 10/8/2026-10/9/2026 weekend
+  - 10/21/2026 schedule-sa
+  - 10/22/2026 schedule-so
+  - 10/23/2026 schedule-se
+  - 11/3/2026 weekend
+  - 11/4/2026 schedule-se
+  - 11/5/2026 schedule-so
+  - 11/6/2026 schedule-se
+  - 11/23/2026-11/27/2026 weekend
+  - 12/21/2026-1/5/2026 weekend
